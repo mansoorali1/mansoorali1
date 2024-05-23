@@ -16,24 +16,10 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>    
-<style>
-    .icon {
-        margin-right: 10px;
-        display: inline-block;
-    }
-</style>
-
-<p align="left">
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer" class="icon">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" />
-  </a><br/>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" class="icon">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer" class="icon">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" />
-  </a>
-</p>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=aws,azure,docker,flask,git,heroku,mongodb" />
+    <img src="https://skillicons.dev/icons?i=mysql,python,pytorch,sklearn,rtensorflow" /><br>
+</div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mansoorali1&show_icons=true&locale=en&layout=compact" alt="mansoorali1" /></p>
 
