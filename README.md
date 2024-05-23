@@ -16,7 +16,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>    
-<div align="center">
+<div align="left">
     <img src="https://skillicons.dev/icons?i=aws,azure,docker,flask,git,heroku,mongodb" />
     <img src="https://skillicons.dev/icons?i=mysql,python,pytorch,sklearn,rtensorflow" /><br>
 </div>
