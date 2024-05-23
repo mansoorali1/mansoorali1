@@ -15,23 +15,24 @@
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-     
-<a href="https://azure.microsoft.com/en-in/" style="padding-right:10;" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure"  width="40" height="40"/> </a> 
-    <a   href="https://www.docker.com/"  target="_blank"  rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"  alt="docker" style="padding-right:10px;" width="40" height="40"/> </a> 
-    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"  alt="flask" width="40" height="40" style="padding-right:10;"/> </a> 
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;">
+<h3 align="left">Languages and Tools:</h3>    
+<style>
+    .icon {
+        margin-right: 10px;
+        display: inline-block;
+    }
+</style>
+
+<p align="left">
+  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer" class="icon">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" />
   </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;">
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" class="icon">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
   </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin-right: 10px;">
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer" class="icon">
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" />
   </a>
-
-
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mansoorali1&show_icons=true&locale=en&layout=compact" alt="mansoorali1" /></p>
