@@ -1,14 +1,23 @@
 <h1 align="center">Hi 👋, I'm Mansoor Ali Shaik</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-
+<img align="right" alt="Coding" width="400" height="300" src="https://raw.githubusercontent.com/mansoorali1/Images/main/Miscellaneous/working.webp">
+<br>
+<br/>
 
 - 🌱 I’m currently learning **AWS, Azure**
 
 - 💬 Ask me about **Python, Machine Learning**
 
 - 📫 How to reach me **mansoorali.shaik23@gmail.com**
-
+<br>
+<br/>
+<br>
+<br/>
+<br>
+<br/>
+<br>
+<br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
